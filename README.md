@@ -14,4 +14,4 @@ on sales.product_id = menu.product_id
 group by customer_id;
 ```
 
-![alt text](https://github.com/hilalguleryuz/northwind_data_analysis_capstone_project/blob/main/Screenshots/SS_1.png)
+![alt text]()
