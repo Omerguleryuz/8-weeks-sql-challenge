@@ -1,8 +1,8 @@
 # 8-weeks-sql-challenge
 
-### Danny's Dinner Case Study Questions
+### Danny's Diner Case Study Questions
  
-1. What is the total amount each customer spent at the restaurant?
+ 1. What is the total amount each customer spent at the restaurant?
 
 ```sql
 select 	
@@ -12,3 +12,4 @@ from sales
 left join menu
 on sales.product_id = menu.product_id
 group by customer_id;
+
